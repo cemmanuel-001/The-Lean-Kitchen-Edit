@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cream text-ink font-body antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display text-ink;
+  }
+  a {
+    @apply underline-offset-4;
+  }
+}
+
+@layer components {
+  .container-edit {
+    @apply mx-auto w-full max-w-5xl px-5 sm:px-8;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-soft bg-clay px-5 py-3 text-sm font-semibold text-cream transition hover:bg-clayDark;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center gap-2 rounded-soft border-2 border-ink px-5 py-3 text-sm font-semibold text-ink transition hover:bg-ink hover:text-cream;
+  }
+
+  .eyebrow {
+    @apply text-xs font-bold uppercase tracking-[0.18em] text-clayDark;
+  }
+
+  .highlight-mark {
+    background-image: linear-gradient(120deg, theme(colors.butter) 0%, theme(colors.butter) 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.35em;
+    background-position: 0 88%;
+  }
+
+  .card {
+    @apply rounded-soft border border-ink/10 bg-white/60 p-6 shadow-sm;
+  }
+
+  .prose-post {
+    @apply max-w-prose text-[1.05rem] leading-7 text-ink/90;
+  }
+  .prose-post p {
+    @apply mb-4;
+  }
+  .prose-post h2 {
+    @apply mt-10 mb-3 text-2xl font-bold;
+  }
+  .prose-post h3 {
+    @apply mt-6 mb-2 text-xl font-bold;
+  }
+  .prose-post ul {
+    @apply mb-4 ml-5 list-disc space-y-1;
+  }
+  .prose-post ol {
+    @apply mb-4 ml-5 list-decimal space-y-1;
+  }
+}
