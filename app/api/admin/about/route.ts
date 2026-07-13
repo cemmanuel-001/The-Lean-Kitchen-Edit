@@ -1,6 +1,11 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getFile, putFile } from "@/lib/github";
+import { NextRequest, NextResponse } from "next/server";
+   import { getFile, putFile } from "@/lib/github";
 
+   export const dynamic = "force-dynamic";
+
+   const ABOUT_PATH = "content/about.json";
 const ABOUT_PATH = "content/about.json";
 
 export async function GET() {
