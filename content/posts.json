@@ -1,14 +1,23 @@
 [
   {
     "slug": "high-protein-breakfast-ideas",
-    "title": "High-Protein Breakfast Ideas for Weight Loss (10 Easy Recipes)",
-    "metaDescription": "10 easy, high-protein breakfast ideas that keep you full longer and support weight loss — quick recipes you can meal prep ahead.",
+    "title": "High Protein Breakfast Ideas for Weight Loss (10 Easy Recipes)",
+    "metaDescription": "10 easy, high-protein breakfast ideas that keep you full longer and support weight loss, quick recipes you can meal prep ahead.",
     "category": "lean-recipes",
     "categoryLabel": "Lean Recipes",
     "excerpt": "Some mornings, a slow breakfast just isn't happening. These ten high-protein breakfast ideas take five to fifteen minutes, use ingredients you can actually find at a regular grocery store, and keep you full until lunch — no 10 a.m. snack attack required.",
     "published": true,
     "heroImage": null,
-    "quickFacts": { "prep": "10 min avg", "servings": "1 (scalable)", "calories": "~320 kcal (estimated)", "tags": ["High-Protein", "Meal-Prep Friendly", "Weight Loss"] },
+    "quickFacts": {
+      "prep": "10 min avg",
+      "servings": "1 (scalable)",
+      "calories": "~320 kcal (estimated)",
+      "tags": [
+        "High Protein",
+        "Meal Prep Friendly",
+        "Weight Loss"
+      ]
+    },
     "bodyMarkdown": "## Why Protein at Breakfast Matters for Weight Loss\n\nProtein takes longer to digest than refined carbs, which is the main reason a high-protein breakfast keeps hunger away longer. It also helps steady your blood sugar through the morning instead of the spike-and-crash that comes with a pastry-only start to the day. The result: fewer cravings before lunch, and less reaching for whatever's in the office snack drawer at 10 a.m.\n\n## What Counts as \"High Protein\" for Breakfast?\n\nFor most people, 20–30g of protein at breakfast is a realistic, useful target — enough to support satiety without turning your morning into a math problem. Every recipe below lands in or near that range, with the protein count listed so you can build a plate you're confident in.\n\n## More Quick Ideas to Rotate Through\n\nOnce the two full recipes below are in regular rotation, work these in for variety:\n\n- **Greek Yogurt Protein Bowl** — 1 cup plain Greek yogurt, ½ cup berries, 2 tbsp granola, 1 tbsp chia seeds. (26g protein · ~300 kcal estimated)\n- **Cottage Cheese Toast** — ½ cup cottage cheese on whole-grain toast, sliced tomato, black pepper, chili flakes. (22g protein · ~280 kcal estimated)\n- **Smoked Salmon & Avocado Wrap** — 1 whole-wheat tortilla, 3 oz smoked salmon, ¼ avocado, arugula, squeeze of lemon. (23g protein · ~360 kcal estimated)\n- **Turkey Sausage & Sweet Potato Hash** — 4 oz lean turkey sausage, diced sweet potato, onion, bell pepper, pan-fried in 1 tsp olive oil. (27g protein · ~370 kcal estimated)\n- **Peanut Butter Protein Smoothie** — 1 scoop protein powder, 1 tbsp peanut butter, 1 frozen banana, 1 cup milk, ice. (30g protein · ~330 kcal estimated)\n- **Chickpea Breakfast Skillet** — 1 can chickpeas, 2 eggs, cumin, paprika, spinach, pan-fried together. (19g protein · ~310 kcal estimated)\n\n## Meal-Prep Tips for Busy Mornings\n\nPick one baked item (the egg muffins) and one no-cook item (overnight oats or a smoothie bag) each week — that combo covers both \"I have five minutes\" and \"I have zero minutes\" mornings. Freeze smoothie ingredients in single-serving bags so blending is the only step left before you're out the door.",
     "recipes": [
       {
@@ -16,24 +25,64 @@
         "prep": "5 min prep + overnight chill",
         "servings": "1 serving",
         "calories": "340 kcal",
-        "ingredients": ["½ cup rolled oats", "¾ cup milk of choice", "1 scoop (about 25g) vanilla protein powder", "1 tbsp peanut butter", "½ tsp cinnamon", "Handful of berries, to top"],
-        "steps": ["Combine oats, milk, protein powder, peanut butter, and cinnamon in a jar.", "Stir well until no dry powder remains.", "Cover and refrigerate overnight (at least 4 hours).", "Top with berries before eating."]
+        "ingredients": [
+          "½ cup rolled oats",
+          "¾ cup milk of choice",
+          "1 scoop (about 25g) vanilla protein powder",
+          "1 tbsp peanut butter",
+          "½ tsp cinnamon",
+          "Handful of berries, to top"
+        ],
+        "steps": [
+          "Combine oats, milk, protein powder, peanut butter, and cinnamon in a jar.",
+          "Stir well until no dry powder remains.",
+          "Cover and refrigerate overnight (at least 4 hours).",
+          "Top with berries before eating."
+        ]
       },
       {
         "name": "Veggie & Egg White Muffins",
         "prep": "10 min prep + 20 min bake",
         "servings": "6 muffins",
         "calories": "180 kcal per muffin",
-        "ingredients": ["6 egg whites", "2 whole eggs", "1 cup chopped spinach", "½ cup diced bell pepper", "¼ cup crumbled feta", "Salt and pepper, to taste"],
-        "steps": ["Preheat oven to 350°F (175°C) and grease a 6-cup muffin tin.", "Whisk eggs and egg whites together in a bowl.", "Stir in spinach, bell pepper, feta, salt, and pepper.", "Divide evenly among muffin cups and bake 18–20 minutes until set.", "Cool, then store in the fridge up to 4 days."]
+        "ingredients": [
+          "6 egg whites",
+          "2 whole eggs",
+          "1 cup chopped spinach",
+          "½ cup diced bell pepper",
+          "¼ cup crumbled feta",
+          "Salt and pepper, to taste"
+        ],
+        "steps": [
+          "Preheat oven to 350°F (175°C) and grease a 6-cup muffin tin.",
+          "Whisk eggs and egg whites together in a bowl.",
+          "Stir in spinach, bell pepper, feta, salt, and pepper.",
+          "Divide evenly among muffin cups and bake 18–20 minutes until set.",
+          "Cool, then store in the fridge up to 4 days."
+        ]
       }
     ],
     "faq": [
-      { "q": "Is protein powder necessary for a high-protein breakfast?", "a": "No. Whole foods like Greek yogurt, eggs, cottage cheese, and lean turkey get you there just as well — protein powder is just a fast option for smoothies and oats when you're short on time." },
-      { "q": "How far ahead can I meal-prep these breakfasts?", "a": "Egg muffins and overnight oats keep well in the fridge for up to 4 days. Smoothie ingredients can be frozen in bags and blended fresh each morning." },
-      { "q": "What counts as a \"high-protein\" breakfast?", "a": "Aim for roughly 20–30g of protein at breakfast. That's the range most of the recipes above land in, and it's generally enough to support satiety through the morning." },
-      { "q": "Are these breakfasts kid-friendly?", "a": "The Greek yogurt bowl, egg muffins, and protein smoothie are the easiest to adapt — just dial back any spice and let kids build their own toppings." },
-      { "q": "Can I double these recipes for meal prep?", "a": "Yes — the egg muffins, hash, and chickpea skillet all scale up easily. Cook once on Sunday and portion into containers for the week." }
+      {
+        "q": "Is protein powder necessary for a high-protein breakfast?",
+        "a": "No. Whole foods like Greek yogurt, eggs, cottage cheese, and lean turkey get you there just as well — protein powder is just a fast option for smoothies and oats when you're short on time."
+      },
+      {
+        "q": "How far ahead can I meal-prep these breakfasts?",
+        "a": "Egg muffins and overnight oats keep well in the fridge for up to 4 days. Smoothie ingredients can be frozen in bags and blended fresh each morning."
+      },
+      {
+        "q": "What counts as a \"high-protein\" breakfast?",
+        "a": "Aim for roughly 20–30g of protein at breakfast. That's the range most of the recipes above land in, and it's generally enough to support satiety through the morning."
+      },
+      {
+        "q": "Are these breakfasts kid-friendly?",
+        "a": "The Greek yogurt bowl, egg muffins, and protein smoothie are the easiest to adapt — just dial back any spice and let kids build their own toppings."
+      },
+      {
+        "q": "Can I double these recipes for meal prep?",
+        "a": "Yes — the egg muffins, hash, and chickpea skillet all scale up easily. Cook once on Sunday and portion into containers for the week."
+      }
     ]
   },
   {
@@ -45,7 +94,15 @@
     "excerpt": "A no-stress week of breakfast, lunch, dinner, and snacks — plus a printable grocery list.",
     "published": false,
     "heroImage": null,
-    "quickFacts": { "prep": "Sunday batch cook", "servings": "1 week", "calories": "~1,500 kcal/day (estimated)", "tags": ["Meal Plan", "Beginner Friendly"] },
+    "quickFacts": {
+      "prep": "Sunday batch cook",
+      "servings": "1 week",
+      "calories": "~1,500 kcal/day (estimated)",
+      "tags": [
+        "Meal Plan",
+        "Beginner Friendly"
+      ]
+    },
     "bodyMarkdown": "## Coming soon\n\nThis post is still being written. Planned outline:\n\n- Who this meal plan is for (beginner-friendly framing)\n- Day-by-day breakdown: breakfast, lunch, dinner, snack for each of 7 days\n- Printable grocery list\n- Batch-cooking and storage tips\n- FAQ: adjusting portions, swapping ingredients, calorie range",
     "recipes": [],
     "faq": []
@@ -59,7 +116,15 @@
     "excerpt": "Thirty weeknight dinners under 400 calories, grouped by chicken, seafood, veg, and 20-minute meals.",
     "published": false,
     "heroImage": null,
-    "quickFacts": { "prep": "20–30 min avg", "servings": "1 (scalable)", "calories": "under 400 kcal (estimated)", "tags": ["Weeknight", "Under 400 Calories"] },
+    "quickFacts": {
+      "prep": "20–30 min avg",
+      "servings": "1 (scalable)",
+      "calories": "under 400 kcal (estimated)",
+      "tags": [
+        "Weeknight",
+        "Under 400 Calories"
+      ]
+    },
     "bodyMarkdown": "## Coming soon\n\nThis post is still being written. Planned outline:\n\n- Why calorie range alone isn't the full picture (protein/fiber for satiety)\n- 30 dinner ideas grouped by type: chicken, seafood, vegetarian, 20-minute meals\n- Approximate calories and macros per recipe\n- Tips for making any dinner lighter without sacrificing flavor\n- FAQ: meal-prepping dinners ahead, freezing leftovers",
     "recipes": [],
     "faq": []
@@ -73,7 +138,15 @@
     "excerpt": "Ten realistic daily habits that add up — no app, no tracking, no spreadsheet required.",
     "published": false,
     "heroImage": null,
-    "quickFacts": { "prep": "N/A", "servings": "N/A", "calories": "N/A", "tags": ["Habits", "No Calorie Counting"] },
+    "quickFacts": {
+      "prep": "N/A",
+      "servings": "N/A",
+      "calories": "N/A",
+      "tags": [
+        "Habits",
+        "No Calorie Counting"
+      ]
+    },
     "bodyMarkdown": "## Coming soon\n\nThis post is still being written. Planned outline:\n\n- Why calorie counting isn't the only path to weight loss\n- 10 practical habits: protein-first plates, walking after meals, mindful portions, sleep, hydration\n- How to build these habits gradually without overwhelm\n- How this pairs with the blog's meal plans and recipes\n- FAQ: realistic timelines, what to do if progress stalls",
     "recipes": [],
     "faq": []
@@ -87,7 +160,15 @@
     "excerpt": "Twenty-five real-food snacks, grouped by craving, so the 3 p.m. slump doesn't derail your day.",
     "published": false,
     "heroImage": null,
-    "quickFacts": { "prep": "5 min avg", "servings": "1", "calories": "under 200 kcal (estimated)", "tags": ["Snacks", "Cravings"] },
+    "quickFacts": {
+      "prep": "5 min avg",
+      "servings": "1",
+      "calories": "under 200 kcal (estimated)",
+      "tags": [
+        "Snacks",
+        "Cravings"
+      ]
+    },
     "bodyMarkdown": "## Coming soon\n\nThis post is still being written. Planned outline:\n\n- Why cravings happen and how the right snack helps rather than derails progress\n- 25 snack ideas grouped by craving type: sweet, salty/crunchy, creamy\n- Approximate calories per snack\n- Snack-prep tips for keeping options on hand during the week\n- FAQ: best snacks for late-night cravings, on-the-go options",
     "recipes": [],
     "faq": []
