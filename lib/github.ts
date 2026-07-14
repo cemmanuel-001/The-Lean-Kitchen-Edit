@@ -38,6 +38,7 @@ async function githubFetch(path: string, init?: RequestInit) {
   const { token } = getConfig();
   const res = await fetch(`${API_BASE}${path}`, {
     ...init,
+    cache: "no-store", 
     headers: {
       Authorization: `Bearer ${token}`,
       Accept: "application/vnd.github+json",
