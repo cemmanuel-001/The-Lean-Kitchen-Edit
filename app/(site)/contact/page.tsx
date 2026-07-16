@@ -20,7 +20,9 @@ export default function ContactPage() {
         Vercel deploys — Formspree or Resend are both drop-in options.
         Replace the action URL below with your endpoint.
       */}
-      <form action="https://formspree.io/f/your-form-id" method="POST" className="card space-y-4 mb-10">
+      <form action="https://api.web3forms.com/submit" method="POST" className="card space-y-4 mb-10">
+
+     <input type="hidden" name="access_key" value="0044b634-cdb1-4570-b50a-18872e417463" />
         <div>
           <label htmlFor="name" className="block text-sm font-semibold mb-1">Name</label>
           <input id="name" name="name" type="text" required className="w-full rounded-soft border border-ink/20 px-4 py-3 text-sm" />
