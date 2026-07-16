@@ -95,13 +95,14 @@ export default function HomePage() {
             <h2 className="text-xl font-bold mb-1">{site.newsletterHeadline}</h2>
             <p className="text-sm text-ink/70">{site.newsletterBlurb}</p>
           </div>
-          <form className="flex gap-2 w-full md:w-auto" action="#" method="post">
-            <input
-              type="email"
-              required
-              placeholder="you@example.com"
-              className="rounded-soft border border-ink/20 bg-white px-4 py-3 text-sm flex-1 md:w-64"
-            />
+          <form className="flex gap-2 w-full md:w-auto" action="https://buttondown.com/api/emails/embed-subscribe/leankitchenedit" method="post">
+     <input
+       type="email"
+       name="email"
+       required
+       placeholder="you@example.com"
+       className="rounded-soft border border-ink/20 bg-white px-4 py-3 text-sm flex-1 md:w-64"
+     />
             <button type="submit" className="btn-primary whitespace-nowrap">
               Subscribe
             </button>
