@@ -137,8 +137,8 @@
     "category": "lean-recipes",
     "categoryLabel": "Lean Recipes",
     "excerpt": "Thirty weeknight dinners, every one under 400 calories, grouped by chicken, seafood, vegetarian, and 20-minute meals, so you can find something that fits your night without scrolling forever.\n",
-    "published": false,
-    "heroImage": null,
+    "published": true,
+    "heroImage": "/images/screenshot20260715-0020391-309355.png",
     "quickFacts": {
       "prep": "20–30 min avg",
       "servings": "1 (scalable)",
@@ -165,7 +165,7 @@
       },
       {
         "q": "What if I need more calories than this?",
-        "a": " A: Add a starch side (like a small baked potato) or an extra half-portion of protein, these recipes are a base you can build on if 400 calories isn't enough for you."
+        "a": "Add a starch side (like a small baked potato) or an extra half-portion of protein, these recipes are a base you can build on if 400 calories isn't enough for you."
       },
       {
         "q": "Can I freeze leftovers from this list?",
