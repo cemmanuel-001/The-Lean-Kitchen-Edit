@@ -10,7 +10,7 @@ export default function TermsPage() {
     <div className="container-edit py-14 max-w-prose">
       <p className="eyebrow mb-2">Legal</p>
       <h1 className="text-4xl font-bold mb-2">Terms of Use</h1>
-      <p className="text-sm text-ink/50 mb-8">Last updated: [insert date]</p>
+      <p className="text-sm text-ink/50 mb-8">Last updated: July 18, 2026</p>
 
       <div className="prose-post">
         <h2>Content ownership</h2>
