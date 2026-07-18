@@ -10,7 +10,7 @@ export default function DisclaimerPage() {
     <div className="container-edit py-14 max-w-prose">
       <p className="eyebrow mb-2">Legal</p>
       <h1 className="text-4xl font-bold mb-2">Disclaimer</h1>
-      <p className="text-sm text-ink/50 mb-8">Last updated: July 18, 2026 </p>
+      <p className="text-sm text-ink/50 mb-8">Last updated: July 18, 2026</p>
 
       <div className="prose-post">
         <p>
